@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with html and css file for 3D-design. I use here html and css tags. 
 ## ## RULES OF USE
 
-> **STEP-1:** `git clone https://github.com/cavidsuleyman/Basic-design.git` <br/>
+> **STEP-1:** `git clone https://github.com/cavidsuleyman/3D-Design.git` <br/>
 > **STEP-2:**  enter the `3D-Design` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
