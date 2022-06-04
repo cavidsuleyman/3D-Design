@@ -1,8 +1,8 @@
 # GITHUB INDICATORS
 
-![GitHub Repo stars](https://img.shields.io/github/stars/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/cavidsuleyman/3D-Design?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/3D-Design?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/3D-Design?style=for-the-badge)
 
 # 3D-Design
 
